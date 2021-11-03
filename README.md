@@ -19,6 +19,11 @@ Using polynomial fit with the Cloud retrieved sensor data to predict what the te
  ⭐️ ![image](https://user-images.githubusercontent.com/37467941/140050394-ad8e1c8d-a2bd-4f8d-804a-2f0562e2b2c1.png)
       <br><br>
 ---
+
+---     
+<b>Configuration</b><br>
+ ⭐️ ![image](https://user-images.githubusercontent.com/37467941/140050820-53b6de85-1c3a-4a6c-ba5b-1a918db40ccb.png)
+---
 ---     
 <b>Results</b><br>
  ⭐️ ![image](https://user-images.githubusercontent.com/37467941/140050370-0635de07-3d7d-450e-9814-561ecf335bd2.png)
